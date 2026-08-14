@@ -2,8 +2,7 @@ package javaCore.Kenum.Test;
 
 import javaCore.Kenum.dominio.Cliente;
 import javaCore.Kenum.dominio.TipoCliente;
-import javaCore.Kenum.dominio.TipoPagamento;
-
+import javaCore.Kenum.dominio.Cliente.TipoPagamento;
 
 public class ClienteTest {
     static void main(String[] args) {
